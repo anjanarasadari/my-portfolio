@@ -17,7 +17,7 @@ function Home() {
       </h1>
       
       <p className="hero-description">
-        A highly motivated and professional Software Engineer with over 5 years of experience 
+        A highly motivated and professional Software Engineer with over 4 years of experience 
         specializing in Java frameworks and cloud computing. Recognized for leading high-impact 
         projects such as the PAYable IPG system and digital banking solutions. Expert in Spring Boot, 
         AWS, and end-to-end project delivery with a passion for building scalable fintech solutions.
