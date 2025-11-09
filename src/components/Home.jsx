@@ -17,14 +17,14 @@ function Home() {
       </h1>
       
       <p className="hero-description">
-        A highly motivated and professional Software Engineer with over 4 years of experience 
+        A highly motivated and professional Software Engineer with over 5 years of experience 
         specializing in Java frameworks and cloud computing. Recognized for leading high-impact 
         projects such as the PAYable IPG system and digital banking solutions. Expert in Spring Boot, 
         AWS, and end-to-end project delivery with a passion for building scalable fintech solutions.
       </p>
       
       <div className="hero-links">
-        
+        <a
           href="https://www.linkedin.com/in/anjana-rasadari-73536a137/"
           target="_blank"
           rel="noopener noreferrer"
@@ -38,14 +38,11 @@ function Home() {
         >
           ✉️ Email
         </a>
+
+        <a href="https://github.com/anjanarasadari" target="_blank" rel="noopener noreferrer" className="hero-link">
+  🐙 GitHub
+</a>
         
-          href="https://github.com/anjanarasadari"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="hero-link"
-        >
-          🐙 GitHub
-        </a>
       </div>
       
       {/* Floating elements for visual interest */}
