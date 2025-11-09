@@ -9,7 +9,7 @@ function About() {
         <div className="about-intro">
           <p className="about-paragraph">
             Hey there! I'm <strong className="highlight">Anjana Rasadari</strong> — a highly motivated 
-            <strong className="highlight"> Senior Software Engineer</strong> with over 5 years of experience 
+            <strong className="highlight"> Senior Software Engineer</strong> with over 4 years of experience 
             specializing in Java frameworks and cloud computing.
           </p>
           
