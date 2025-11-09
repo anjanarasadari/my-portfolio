@@ -38,6 +38,9 @@ function Home() {
         >
           ✉️ Email
         </a>
+        <a href="https://github.com/anjanarasadari" target="_blank" rel="noopener noreferrer" className="hero-link">
+  🐙 GitHub
+</a>
         
       </div>
       
