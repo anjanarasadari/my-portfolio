@@ -23,39 +23,22 @@ function Home() {
         AWS, and end-to-end project delivery with a passion for building scalable fintech solutions.
       </p>
       
-    <div className="hero-links">
-  
-    href="https://www.linkedin.com/in/anjana-rasadari-73536a137/"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="hero-link"
-  >
-    💼 LinkedIn
-  </a>
-  <a 
-    href="mailto:anjanarasadari21@gmail.com" 
-    className="hero-link"
-  >
-    ✉️ Email
-  </a>
-  
-    href="https://github.com/anjanarasadari"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="hero-link"
-  >
-    🐙 GitHub
-  </a>
-</div> 
-      
-      {/* Floating elements for visual interest */}
-      <div className="floating-elements">
-        <div className="floating-element floating-element-1"></div>
-        <div className="floating-element floating-element-2"></div>
-        <div className="floating-element floating-element-3"></div>
-      </div>
-    </section>
-  );
-}
-
-export default Home;
+      <div className="hero-links">
+        
+          href="https://www.linkedin.com/in/anjana-rasadari-73536a137/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="hero-link"
+        >
+          💼 LinkedIn
+        </a>
+        <a 
+          href="mailto:anjanarasadari21@gmail.com" 
+          className="hero-link"
+        >
+          ✉️ Email
+        </a>
+        
+          href="https://github.com/anjanarasadari"
+          target="_blank"
+          rel="noopener noreferrer"
