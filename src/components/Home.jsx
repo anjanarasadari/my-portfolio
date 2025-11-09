@@ -42,3 +42,20 @@ function Home() {
           href="https://github.com/anjanarasadari"
           target="_blank"
           rel="noopener noreferrer"
+          className="hero-link"
+        >
+          🐙 GitHub
+        </a>
+      </div>
+      
+      {/* Floating elements for visual interest */}
+      <div className="floating-elements">
+        <div className="floating-element floating-element-1"></div>
+        <div className="floating-element floating-element-2"></div>
+        <div className="floating-element floating-element-3"></div>
+      </div>
+    </section>
+  );
+}
+
+export default Home;
