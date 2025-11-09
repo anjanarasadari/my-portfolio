@@ -1,6 +1,6 @@
-## React + Vite: Jeelo Arun
+## React + Vite: Anjana Portfolio
 
-Simple React app that renders the text "jeelo arun".
+Simple React app that renders the text "Anjana Portfolio".
 
 ### Run locally
 
